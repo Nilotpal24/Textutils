@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.blank{
+  color:blue;
+}
+.container nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 4px;
+  font-size: 2rem;
+  font-family: cursive;
+  list-style: none;
+}
+.container nav li{
+  padding: 6px 22px;
+}
+.container nav h1{
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 4px;
+  font-size: 2rem;
+  font-family: cursive;
+  list-style: none;
+}
